@@ -4,6 +4,13 @@ Guapp Appli is a mobile chat platform inspired by WhatsApp, designed for multili
 
 The product combines a native Android client with a serverless backend built on Firebase and Google Cloud services. The result is a real-time messaging experience that supports translation, speech transcription, text-to-speech, notifications, and secure message delivery.
 
+## Project Structure
+
+- `Youguage - Android app/`: Android client source, Gradle configuration, and app modules
+- `functions/`: Firebase Cloud Functions for translation, speech processing, notifications, and messaging workflows
+- `README.md`: project overview, architecture notes, and technology highlights
+- `.gitignore`: excludes local IDE, build, and secret/config artifacts
+
 ## What Guapp Appli Does
 
 - Real-time one-to-one and group chat
