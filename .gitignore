@@ -3,5 +3,5 @@
 .gradle/
 build/
 **/build/
-Youguage - Android app/local.properties
+VoxBridge - Android app/local.properties
 functions/youguage_key.json

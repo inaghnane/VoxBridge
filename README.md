@@ -6,7 +6,7 @@ The product combines a native Android client with a serverless backend built on 
 
 ## Project Structure
 
-- `Youguage - Android app/`: Android client source, Gradle configuration, and app modules
+- `VoxBridge - Android app/`: Android client source, Gradle configuration, and app modules
 - `functions/`: Firebase Cloud Functions for translation, speech processing, notifications, and messaging workflows
 - `README.md`: project overview, architecture notes, and technology highlights
 - `.gitignore`: excludes local IDE, build, and secret/config artifacts
