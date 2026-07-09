@@ -1,6 +1,6 @@
-# Guapp Appli
+# VoxBridge
 
-Guapp Appli is a mobile chat platform inspired by WhatsApp, designed for multilingual communication. It lets users exchange text, voice notes, media, and group messages while automatically translating conversations across languages to reduce friction between speakers.
+VoxBridge is a mobile chat platform inspired by WhatsApp, designed for multilingual communication. It lets users exchange text, voice notes, media, and group messages while automatically translating conversations across languages to reduce friction between speakers.
 
 The product combines a native Android client with a serverless backend built on Firebase and Google Cloud services. The result is a real-time messaging experience that supports translation, speech transcription, text-to-speech, notifications, and secure message delivery.
 
@@ -11,7 +11,7 @@ The product combines a native Android client with a serverless backend built on 
 - `README.md`: project overview, architecture notes, and technology highlights
 - `.gitignore`: excludes local IDE, build, and secret/config artifacts
 
-## What Guapp Appli Does
+## What VoxBridge Does
 
 - Real-time one-to-one and group chat
 - Automatic translation of text messages into the recipient's language
@@ -22,7 +22,7 @@ The product combines a native Android client with a serverless backend built on 
 
 ## Architecture Overview
 
-Guapp Appli follows a client-server, event-driven architecture:
+VoxBridge follows a client-server, event-driven architecture:
 
 ```mermaid
 flowchart LR
@@ -73,7 +73,7 @@ flowchart LR
 
 ## Why This Project Stands Out
 
-Guapp Appli is more than a chat app: it is a language bridge for mobile messaging. The core value is removing language barriers in daily conversations while keeping the experience familiar, fast, and mobile-first.
+VoxBridge is more than a chat app: it is a language bridge for mobile messaging. The core value is removing language barriers in daily conversations while keeping the experience familiar, fast, and mobile-first.
 
 The main strengths to highlight in GitHub are:
 
@@ -89,4 +89,4 @@ This repository contains the Android application and the supporting serverless f
 
 If you want a short public-facing summary for GitHub, you can use:
 
-> Guapp Appli is a multilingual chat application inspired by WhatsApp, featuring real-time messaging, automatic text translation, voice transcription, text-to-speech, and Firebase-powered cloud services.
+> VoxBridge is a multilingual chat application inspired by WhatsApp, featuring real-time messaging, automatic text translation, voice transcription, text-to-speech, and Firebase-powered cloud services.
